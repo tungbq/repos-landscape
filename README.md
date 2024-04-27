@@ -17,41 +17,9 @@
 - URL: <a href="https://github.com/tungbq/devops-project">tungbq/devops-project</a>
 - Description: Collection of DevOps projects to level up your DevOps skills
 - <a href="https://github.com/tungbq/devops-project/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/tungbq/devops-project"/></a>
-## 5. aws-lab-with-terraform
-- URL: <a href="https://github.com/tungbq/aws-lab-with-terraform">tungbq/aws-lab-with-terraform</a>
-- Description: Collection of Terraform code for AWS labs
-- <a href="https://github.com/tungbq/aws-lab-with-terraform/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/tungbq/aws-lab-with-terraform"/></a>
-## 6. awesome-workflow
-- URL: <a href="https://github.com/tungbq/awesome-workflow">tungbq/awesome-workflow</a>
-- Description: :octocat: Awesome lists about GitHub workflows to automate your development workflow
-- <a href="https://github.com/tungbq/awesome-workflow/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/tungbq/awesome-workflow"/></a>
-## 7. k8sHub
-- URL: <a href="https://github.com/tungbq/k8sHub">tungbq/k8sHub</a>
-- Description: Kubernetes deployment samples, practices, and examples
-- <a href="https://github.com/tungbq/k8sHub/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/tungbq/k8sHub"/></a>
-## 8. Azure-DevOps-Pipeline
-- URL: <a href="https://github.com/tungbq/Azure-DevOps-Pipeline">tungbq/Azure-DevOps-Pipeline</a>
-- Description: Azure-DevOps tutorials
-- <a href="https://github.com/tungbq/Azure-DevOps-Pipeline/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/tungbq/Azure-DevOps-Pipeline"/></a>
-## 9. find-github-issue
-- URL: <a href="https://github.com/tungbq/find-github-issue">tungbq/find-github-issue</a>
-- Description: Collection of GitHub filters for open-source contributors
-- <a href="https://github.com/tungbq/find-github-issue/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/tungbq/find-github-issue"/></a>
-## 10. challenges
-- URL: <a href="https://github.com/tungbq/challenges">tungbq/challenges</a>
-- Description: Leetcode challenges
-- <a href="https://github.com/tungbq/challenges/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/tungbq/challenges"/></a>
-## 11. devops-dockerfiles
-- URL: <a href="https://github.com/tungbq/devops-dockerfiles">tungbq/devops-dockerfiles</a>
-- Description: Dockerfiles collection for DevOps tools
-- <a href="https://github.com/tungbq/devops-dockerfiles/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/tungbq/devops-dockerfiles"/></a>
-## 12. terraform-sample-project
-- URL: <a href="https://github.com/tungbq/terraform-sample-project">tungbq/terraform-sample-project</a>
-- Description: Sample Terraform project with best practice
-- <a href="https://github.com/tungbq/terraform-sample-project/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/tungbq/terraform-sample-project"/></a>
-## 13. repos
-- URL: <a href="https://github.com/tungbq/repos">tungbq/repos</a>
-- Description: 🚀 My repositories landscape
-- <a href="https://github.com/tungbq/repos/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/tungbq/repos"/></a>
+## 5. 
+- URL: <a href="https://github.com/"></a>
+- Description: null
+- <a href="https://github.com//stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/"/></a>
 
 For full list of repositories, click [**here**](https://github.com/tungbq?tab=repositories&q=&type=&language=&sort=stargazers).
